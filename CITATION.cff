@@ -1,0 +1,16 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this code, please cite the following publication:"
+authors:
+  - family-names: "Fathy"
+    given-names: "Rawda"
+  - family-names: "Sarhan"
+    given-names: "Amany M."
+  - family-names: "Ali"
+    given-names: "Hesham A."
+title: "Intelligent Air Traffic Control Using NLP-Enhanced Speech Recognition and Natural Language Generation"
+journal: "Journal of Electrical Systems and Information Technology"
+year: 2025
+publisher: "Springer Nature"
+doi: "10.1186/s43067-025-00234-9"
+url: "https://link.springer.com/article/10.1186/s43067-025-00234-9"
