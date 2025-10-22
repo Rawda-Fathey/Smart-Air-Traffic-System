@@ -60,8 +60,6 @@ This project integrates advanced **Artificial Intelligence** and **Natural Langu
 Contributions are welcome!  
 Please open an issue if you find a bug or have a feature request. Pull requests will be reviewed.
 
-## License  
-This project is distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
